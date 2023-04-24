@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ic3king
-- 👀 I’m interested in rugby, history
-- 🌱 I’m currently learning html, java, css
-- 💞️ I’m looking to collaborate on java
+- 👀 I’m interested anything and everything
+- 🌱 I’m currently learning Rust
+- 💞️ I’m looking to collaborate on any open source work
 - 📫 How to reach me email: vutejunior@gmail.com
 
 <!---
